@@ -1,0 +1,10 @@
+[
+    {
+        "_id" : 1,
+        "videoPath" : "SampleVideo_1280x720_1mb.mp4"
+    },
+    {
+        "_id" : 2,
+        "videoPath" : "9699503-hd_1920_1080_24fps.mp4"
+    }
+]
